@@ -1,0 +1,31 @@
+[4mFEM[24m(1)                      General Commands Manual                     [4mFEM[24m(1)
+
+[1mNAME[0m
+       fem - fast editor machine for feminizing and transforming input
+
+[1mSYNOPSIS[0m
+       [1mfem [22m[ -V ] [ --version ] [ -f ] [ --force ] [ -r ] [ --reverse ]
+
+[1mDESCRIPTION[0m
+       [1mfem [22mtakes in arbitrary input and feminizes it.
+
+   [1mOptions[0m
+       [1m--version[22m, [1m-V[0m
+              Output version information and exit.
+
+       [1m--force[22m, [1m-f[0m
+              Forcefully  feminizes  the input, even if it does not comply. To
+              be used with caution, as it can cause lasting harm.
+
+       [1m--reverse[22m, [1m-r[0m
+              Reverses a previous feminization. May also be used to perform  a
+              masculinization  on  non-feminized feminine input, although that
+              mode of operation has not yet been tested.
+
+[1mSEE ALSO[0m
+       rustc(1)
+
+[1mBUGS[0m
+       No known bugs.
+
+                                   2 May 24                             [4mFEM[24m(1)
